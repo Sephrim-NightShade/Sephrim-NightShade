@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sephrim-NightShade
+- 👋 Hi, I’m @Seraphim-NightShade
 - 👀 I’m interested in ... coding and learning new things
 - 🌱 I’m currently learning ... how to code on Github
 - 💞️ I’m looking to collaborate on ... whatever I can
